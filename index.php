@@ -28,7 +28,7 @@
 					            </form>
 
 					            <form method="POST" action="connect/AddFromTops.php" accept-charset="UTF-8">
-					            	<button type="submit" name="GetWeb" class="btn btn-info btn-block">Get</button>
+					            	<button type="submit" name="GetWeb" class="btn btn-info btn-block">GetWeb</button>
 					            </form>
 					        </div>
 					    </div>
