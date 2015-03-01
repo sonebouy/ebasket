@@ -10,7 +10,6 @@
 		<link href="css/AddProducts.css" rel="stylesheet">
 	</head>
 	<body>
-		<br>
 		<div class="container">
   			<div class="row vertical-center-row">
   				<div class="col-lg-12">
