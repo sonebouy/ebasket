@@ -6,18 +6,18 @@
 		<link href="css/bootstrap.min.css" rel="stylesheet">
 		<link href="css/bootstrap-responsive.min.css" rel="stylesheet">
 		<meta charset="utf-8">
-		<title>Add Products</title>
+		<title>eBasket</title>
 		<link href="css/AddProducts.css" rel="stylesheet">
 	</head>
 	<body>
 		<br>
 		<div class="container">
-  			<div class="row">
-  				<div class="col-md-8">
-  					<div class="container">
-					    <div class="row" >
+  			<div class="row vertical-center-row">
+  				<div class="col-lg-12">
+  					<div class="row">
+					    <div class="col-xs-4 col-xs-offset-4" >
 					        <div class="span4 offset4 well" style="padding-bottom:0px;">
-					            <legend>Add Products</legend>
+					            <legend>eBasket</legend>
 					            <form method="POST" action="connect/AddProducts.php" accept-charset="UTF-8">
 					           	<input type="text" id="barcode" class="span4" name="barcode" placeholder="barcode">
 					           	<input type="text" id="name" class="span4" name="name" placeholder="name">
